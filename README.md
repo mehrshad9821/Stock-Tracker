@@ -1,4 +1,4 @@
-A stock tracker app that gives that has:
+A stock tracker app that has:
 
 1- User model, where users can sigup, modify and login/logout.
 2- Each user has the capability to add up to 10 stock to their profile (API Call) where the stock's current price gets displayed.
