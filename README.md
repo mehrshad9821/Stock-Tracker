@@ -1,24 +1,6 @@
-# README
+A stock tracker app that gives that has:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1- User model, where users can sigup, modify and login/logout.
+2- Each user has the capability to add up to 10 stock to their profile (API Call) where the stock's current price gets displayed.
+3- User also has the capability of saving the stock to their wishlist
+4- User can also search for other users via email or name and see their friends activity.
